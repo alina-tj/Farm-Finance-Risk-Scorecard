@@ -1,0 +1,11 @@
+province,margin_now,change_3yr,cost_ratio,volatility,years_below_10pct,squeeze_years,tier,thin_margin,falling
+New Brunswick,0.3,-13.0,99.7,6.1,1,8,Stressed,True,True
+British Columbia,5.1,-2.6,94.9,3.1,5,8,Stressed,True,False
+Newfoundland and Labrador,7.0,3.5,93.0,3.6,10,5,Stressed,True,False
+Nova Scotia,9.7,3.9,90.3,5.2,6,6,Stressed,True,False
+Quebec,13.4,-4.4,86.6,4.3,1,5,Watch,False,True
+Prince Edward Island,18.1,-4.1,81.9,3.7,1,6,Watch,False,True
+Alberta,18.5,-6.4,81.5,3.4,0,5,Watch,False,True
+Ontario,19.3,-3.1,80.7,2.4,0,6,Watch,False,True
+Manitoba,23.4,-1.8,76.6,3.2,0,5,Strong,False,False
+Saskatchewan,24.6,-5.0,75.4,3.8,0,7,Watch,False,True

@@ -1,0 +1,361 @@
+year,province,revenue,rev_rank,share_pct
+2025,Alberta,24483044.0,1,24.0
+2025,Ontario,24086455.0,2,23.6
+2025,Saskatchewan,21076627.0,3,20.6
+2025,Quebec,13543087.0,4,13.3
+2025,Manitoba,10332445.0,5,10.1
+2025,British Columbia,5505176.0,6,5.4
+2025,New Brunswick,1303443.0,7,1.3
+2025,Prince Edward Island,834972.0,8,0.8
+2025,Nova Scotia,824073.0,9,0.8
+2025,Newfoundland and Labrador,170369.0,10,0.2
+2024,Alberta,23119025.0,1,23.7
+2024,Ontario,22308089.0,2,22.9
+2024,Saskatchewan,21466846.0,3,22.0
+2024,Quebec,12958008.0,4,13.3
+2024,Manitoba,9751073.0,5,10.0
+2024,British Columbia,5052551.0,6,5.2
+2024,New Brunswick,1183474.0,7,1.2
+2024,Prince Edward Island,840497.0,8,0.9
+2024,Nova Scotia,768592.0,9,0.8
+2024,Newfoundland and Labrador,169135.0,10,0.2
+2023,Alberta,23310557.0,1,23.4
+2023,Saskatchewan,22707995.0,2,22.8
+2023,Ontario,22465615.0,3,22.6
+2023,Quebec,13036876.0,4,13.1
+2023,Manitoba,10219875.0,5,10.3
+2023,British Columbia,4877352.0,6,4.9
+2023,New Brunswick,1144544.0,7,1.2
+2023,Prince Edward Island,806911.0,8,0.8
+2023,Nova Scotia,742879.0,9,0.7
+2023,Newfoundland and Labrador,171277.0,10,0.2
+2022,Alberta,22251270.0,1,23.4
+2022,Ontario,21836360.0,2,23.0
+2022,Saskatchewan,21131224.0,3,22.2
+2022,Quebec,12676036.0,4,13.3
+2022,Manitoba,9782997.0,5,10.3
+2022,British Columbia,4718477.0,6,5.0
+2022,New Brunswick,1103649.0,7,1.2
+2022,Prince Edward Island,756403.0,8,0.8
+2022,Nova Scotia,723585.0,9,0.8
+2022,Newfoundland and Labrador,155110.0,10,0.2
+2021,Saskatchewan,19290801.0,1,23.2
+2021,Ontario,18911880.0,2,22.8
+2021,Alberta,18765579.0,3,22.6
+2021,Quebec,11076055.0,4,13.3
+2021,Manitoba,8517036.0,5,10.3
+2021,British Columbia,4183907.0,6,5.0
+2021,New Brunswick,943170.0,7,1.1
+2021,Nova Scotia,642071.0,8,0.8
+2021,Prince Edward Island,532108.0,9,0.6
+2021,Newfoundland and Labrador,140103.0,10,0.2
+2020,Ontario,16799612.0,1,23.4
+2020,Saskatchewan,16473002.0,2,23.0
+2020,Alberta,15401686.0,3,21.5
+2020,Quebec,10076685.0,4,14.1
+2020,Manitoba,7004797.0,5,9.8
+2020,British Columbia,3835542.0,6,5.4
+2020,New Brunswick,837373.0,7,1.2
+2020,Nova Scotia,565692.0,8,0.8
+2020,Prince Edward Island,556583.0,9,0.8
+2020,Newfoundland and Labrador,125419.0,10,0.2
+2019,Ontario,15073019.0,1,22.8
+2019,Alberta,14876830.0,2,22.5
+2019,Saskatchewan,14079058.0,3,21.3
+2019,Quebec,9584261.0,4,14.5
+2019,Manitoba,6674218.0,5,10.1
+2019,British Columbia,3825669.0,6,5.8
+2019,New Brunswick,831156.0,7,1.3
+2019,Nova Scotia,589207.0,8,0.9
+2019,Prince Edward Island,543932.0,9,0.8
+2019,Newfoundland and Labrador,141425.0,10,0.2
+2018,Ontario,14251987.0,1,22.7
+2018,Saskatchewan,14042278.0,2,22.4
+2018,Alberta,13606901.0,3,21.7
+2018,Quebec,8878304.0,4,14.1
+2018,Manitoba,6635537.0,5,10.6
+2018,British Columbia,3491651.0,6,5.6
+2018,New Brunswick,674341.0,7,1.1
+2018,Nova Scotia,573574.0,8,0.9
+2018,Prince Edward Island,507217.0,9,0.8
+2018,Newfoundland and Labrador,138279.0,10,0.2
+2017,Saskatchewan,14223014.0,1,22.8
+2017,Alberta,14204162.0,2,22.8
+2017,Ontario,13422453.0,3,21.5
+2017,Quebec,8781947.0,4,14.1
+2017,Manitoba,6702855.0,5,10.7
+2017,British Columbia,3290625.0,6,5.3
+2017,New Brunswick,606869.0,7,1.0
+2017,Nova Scotia,564745.0,8,0.9
+2017,Prince Edward Island,498209.0,9,0.8
+2017,Newfoundland and Labrador,138266.0,10,0.2
+2016,Saskatchewan,14228284.0,1,23.4
+2016,Alberta,13483861.0,2,22.2
+2016,Ontario,13314880.0,3,21.9
+2016,Quebec,8757162.0,4,14.4
+2016,Manitoba,5982079.0,5,9.9
+2016,British Columbia,3140947.0,6,5.2
+2016,Nova Scotia,594515.0,7,1.0
+2016,New Brunswick,582859.0,8,1.0
+2016,Prince Edward Island,483217.0,9,0.8
+2016,Newfoundland and Labrador,132009.0,10,0.2
+2015,Saskatchewan,14562627.0,1,24.2
+2015,Alberta,13607255.0,2,22.7
+2015,Ontario,12927096.0,3,21.5
+2015,Quebec,8195681.0,4,13.6
+2015,Manitoba,5830289.0,5,9.7
+2015,British Columbia,3172915.0,6,5.3
+2015,Nova Scotia,595444.0,7,1.0
+2015,New Brunswick,574918.0,8,1.0
+2015,Prince Edward Island,477759.0,9,0.8
+2015,Newfoundland and Labrador,132154.0,10,0.2
+2014,Saskatchewan,13179865.0,1,22.6
+2014,Ontario,12929951.0,2,22.2
+2014,Alberta,12896700.0,3,22.1
+2014,Quebec,8505828.0,4,14.6
+2014,Manitoba,5979450.0,5,10.3
+2014,British Columbia,3036909.0,6,5.2
+2014,Nova Scotia,581528.0,7,1.0
+2014,New Brunswick,568755.0,8,1.0
+2014,Prince Edward Island,478779.0,9,0.8
+2014,Newfoundland and Labrador,127662.0,10,0.2
+2013,Ontario,12532428.0,1,22.5
+2013,Saskatchewan,12287612.0,2,22.1
+2013,Alberta,11886301.0,3,21.4
+2013,Quebec,8368936.0,4,15.0
+2013,Manitoba,5855259.0,5,10.5
+2013,British Columbia,2882650.0,6,5.2
+2013,Nova Scotia,605785.0,7,1.1
+2013,New Brunswick,570661.0,8,1.0
+2013,Prince Edward Island,497671.0,9,0.9
+2013,Newfoundland and Labrador,140484.0,10,0.3
+2012,Ontario,12250608.0,1,22.6
+2012,Alberta,12031716.0,2,22.2
+2012,Saskatchewan,11781972.0,3,21.7
+2012,Quebec,8415888.0,4,15.5
+2012,Manitoba,5164996.0,5,9.5
+2012,British Columbia,2844975.0,6,5.2
+2012,Nova Scotia,581876.0,7,1.1
+2012,New Brunswick,539629.0,8,1.0
+2012,Prince Edward Island,484294.0,9,0.9
+2012,Newfoundland and Labrador,131660.0,10,0.2
+2011,Ontario,11205641.0,1,22.5
+2011,Saskatchewan,11026690.0,2,22.1
+2011,Alberta,10306960.0,3,20.7
+2011,Quebec,8000800.0,4,16.0
+2011,Manitoba,4980655.0,5,10.0
+2011,British Columbia,2687954.0,6,5.4
+2011,New Brunswick,542671.0,7,1.1
+2011,Nova Scotia,531897.0,8,1.1
+2011,Prince Edward Island,486981.0,9,1.0
+2011,Newfoundland and Labrador,119627.0,10,0.2
+2010,Ontario,10289539.0,1,23.1
+2010,Saskatchewan,9117555.0,2,20.5
+2010,Alberta,9004601.0,3,20.3
+2010,Quebec,7209195.0,4,16.2
+2010,Manitoba,4785792.0,5,10.8
+2010,British Columbia,2547193.0,6,5.7
+2010,Nova Scotia,495598.0,7,1.1
+2010,New Brunswick,477619.0,8,1.1
+2010,Prince Edward Island,410896.0,9,0.9
+2010,Newfoundland and Labrador,117290.0,10,0.3
+2009,Ontario,9684732.0,1,21.7
+2009,Alberta,9326081.0,2,20.9
+2009,Saskatchewan,9244398.0,3,20.7
+2009,Quebec,7442757.0,4,16.7
+2009,Manitoba,4853362.0,5,10.9
+2009,British Columbia,2525388.0,6,5.7
+2009,New Brunswick,501530.0,7,1.1
+2009,Nova Scotia,462744.0,8,1.0
+2009,Prince Edward Island,410721.0,9,0.9
+2009,Newfoundland and Labrador,107805.0,10,0.2
+2008,Alberta,10178520.0,1,22.1
+2008,Ontario,10046738.0,2,21.8
+2008,Saskatchewan,9427015.0,3,20.5
+2008,Quebec,7573278.0,4,16.4
+2008,Manitoba,4843809.0,5,10.5
+2008,British Columbia,2521749.0,6,5.5
+2008,Nova Scotia,488520.0,7,1.1
+2008,New Brunswick,476515.0,8,1.0
+2008,Prince Edward Island,394369.0,9,0.9
+2008,Newfoundland and Labrador,109323.0,10,0.2
+2007,Ontario,9272840.0,1,22.7
+2007,Alberta,8691514.0,2,21.3
+2007,Saskatchewan,7803887.0,3,19.1
+2007,Quebec,6920080.0,4,16.9
+2007,Manitoba,4389123.0,5,10.7
+2007,British Columbia,2381213.0,6,5.8
+2007,Nova Scotia,458952.0,7,1.1
+2007,New Brunswick,457102.0,8,1.1
+2007,Prince Edward Island,384753.0,9,0.9
+2007,Newfoundland and Labrador,106103.0,10,0.3
+2006,Ontario,8806348.0,1,23.8
+2006,Alberta,7779064.0,2,21.0
+2006,Saskatchewan,6681616.0,3,18.0
+2006,Quebec,6307882.0,4,17.0
+2006,Manitoba,3717302.0,5,10.0
+2006,British Columbia,2345982.0,6,6.3
+2006,Nova Scotia,467826.0,7,1.3
+2006,New Brunswick,460088.0,8,1.2
+2006,Prince Edward Island,376586.0,9,1.0
+2006,Newfoundland and Labrador,95990.0,10,0.3
+2005,Ontario,8901262.0,1,24.1
+2005,Alberta,7905783.0,2,21.4
+2005,Saskatchewan,6275432.0,3,17.0
+2005,Quebec,6251480.0,4,16.9
+2005,Manitoba,3830764.0,5,10.4
+2005,British Columbia,2389362.0,6,6.5
+2005,Nova Scotia,466351.0,7,1.3
+2005,New Brunswick,437506.0,8,1.2
+2005,Prince Edward Island,371848.0,9,1.0
+2005,Newfoundland and Labrador,89005.0,10,0.2
+2004,Ontario,8597499.0,1,23.7
+2004,Alberta,8013369.0,2,22.1
+2004,Quebec,6302425.0,3,17.3
+2004,Saskatchewan,5892158.0,4,16.2
+2004,Manitoba,3857541.0,5,10.6
+2004,British Columbia,2359838.0,6,6.5
+2004,Nova Scotia,456739.0,7,1.3
+2004,New Brunswick,421574.0,8,1.2
+2004,Prince Edward Island,349577.0,9,1.0
+2004,Newfoundland and Labrador,87527.0,10,0.2
+2003,Ontario,8407821.0,1,24.6
+2003,Alberta,7101628.0,2,20.7
+2003,Quebec,5929482.0,3,17.3
+2003,Saskatchewan,5755256.0,4,16.8
+2003,Manitoba,3532318.0,5,10.3
+2003,British Columbia,2248099.0,6,6.6
+2003,Nova Scotia,421919.0,7,1.2
+2003,New Brunswick,411593.0,8,1.2
+2003,Prince Edward Island,355333.0,9,1.0
+2003,Newfoundland and Labrador,81444.0,10,0.2
+2002,Ontario,8435211.0,1,23.5
+2002,Alberta,8315809.0,2,23.1
+2002,Saskatchewan,6452698.0,3,17.9
+2002,Quebec,5488561.0,4,15.3
+2002,Manitoba,3819776.0,5,10.6
+2002,British Columbia,2173971.0,6,6.0
+2002,New Brunswick,428906.0,7,1.2
+2002,Nova Scotia,407050.0,8,1.1
+2002,Prince Edward Island,369104.0,9,1.0
+2002,Newfoundland and Labrador,79583.0,10,0.2
+2001,Ontario,8475645.0,1,23.4
+2001,Alberta,8368417.0,2,23.1
+2001,Saskatchewan,6511315.0,3,18.0
+2001,Quebec,5736960.0,4,15.8
+2001,Manitoba,3698409.0,5,10.2
+2001,British Columbia,2200804.0,6,6.1
+2001,Nova Scotia,420917.0,7,1.2
+2001,New Brunswick,416641.0,8,1.1
+2001,Prince Edward Island,336349.0,9,0.9
+2001,Newfoundland and Labrador,77870.0,10,0.2
+2000,Ontario,7793260.0,1,23.7
+2000,Alberta,7583288.0,2,23.1
+2000,Saskatchewan,5733513.0,3,17.4
+2000,Quebec,5411030.0,4,16.5
+2000,Manitoba,3156056.0,5,9.6
+2000,British Columbia,2024221.0,6,6.2
+2000,Nova Scotia,413050.0,7,1.3
+2000,New Brunswick,368570.0,8,1.1
+2000,Prince Edward Island,322717.0,9,1.0
+2000,Newfoundland and Labrador,73712.0,10,0.2
+1999,Ontario,7131578.0,1,23.6
+1999,Alberta,6530826.0,2,21.6
+1999,Saskatchewan,5535319.0,3,18.3
+1999,Quebec,5080960.0,4,16.8
+1999,Manitoba,2906809.0,5,9.6
+1999,British Columbia,1885035.0,6,6.2
+1999,Nova Scotia,389350.0,7,1.3
+1999,New Brunswick,375268.0,8,1.2
+1999,Prince Edward Island,349165.0,9,1.2
+1999,Newfoundland and Labrador,72473.0,10,0.2
+1998,Ontario,6935145.0,1,23.5
+1998,Alberta,6418118.0,2,21.8
+1998,Saskatchewan,5545296.0,3,18.8
+1998,Quebec,4797348.0,4,16.3
+1998,Manitoba,2937007.0,5,10.0
+1998,British Columbia,1779647.0,6,6.0
+1998,Nova Scotia,369706.0,7,1.3
+1998,New Brunswick,326568.0,8,1.1
+1998,Prince Edward Island,324247.0,9,1.1
+1998,Newfoundland and Labrador,72180.0,10,0.2
+1997,Ontario,6848486.0,1,23.0
+1997,Alberta,6464646.0,2,21.7
+1997,Saskatchewan,5922461.0,3,19.9
+1997,Quebec,4764398.0,4,16.0
+1997,Manitoba,3044005.0,5,10.2
+1997,British Columbia,1738340.0,6,5.8
+1997,Nova Scotia,374620.0,7,1.3
+1997,New Brunswick,320628.0,8,1.1
+1997,Prince Edward Island,281765.0,9,0.9
+1997,Newfoundland and Labrador,76176.0,10,0.3
+1996,Ontario,6685533.0,1,23.0
+1996,Alberta,6528207.0,2,22.5
+1996,Saskatchewan,5610537.0,3,19.3
+1996,Quebec,4691816.0,4,16.1
+1996,Manitoba,2788380.0,5,9.6
+1996,British Columbia,1705786.0,6,5.9
+1996,Nova Scotia,379981.0,7,1.3
+1996,New Brunswick,314674.0,8,1.1
+1996,Prince Edward Island,293241.0,9,1.0
+1996,Newfoundland and Labrador,77172.0,10,0.3
+1995,Ontario,6315372.0,1,23.3
+1995,Alberta,5969065.0,2,22.0
+1995,Saskatchewan,5385694.0,3,19.9
+1995,Quebec,4353371.0,4,16.1
+1995,Manitoba,2503288.0,5,9.2
+1995,British Columbia,1585560.0,6,5.8
+1995,Nova Scotia,341156.0,7,1.3
+1995,Prince Edward Island,313219.0,8,1.2
+1995,New Brunswick,290224.0,9,1.1
+1995,Newfoundland and Labrador,66372.0,10,0.2
+1994,Ontario,6052852.0,1,23.4
+1994,Alberta,5581321.0,2,21.6
+1994,Saskatchewan,5050540.0,3,19.5
+1994,Quebec,4214854.0,4,16.3
+1994,Manitoba,2451015.0,5,9.5
+1994,British Columbia,1537862.0,6,5.9
+1994,Nova Scotia,327612.0,7,1.3
+1994,Prince Edward Island,308685.0,8,1.2
+1994,New Brunswick,293249.0,9,1.1
+1994,Newfoundland and Labrador,63406.0,10,0.2
+1993,Ontario,5879690.0,1,24.3
+1993,Alberta,5064027.0,2,20.9
+1993,Saskatchewan,4538639.0,3,18.8
+1993,Quebec,3981395.0,4,16.5
+1993,Manitoba,2380354.0,5,9.8
+1993,British Columbia,1445545.0,6,6.0
+1993,Nova Scotia,312715.0,7,1.3
+1993,New Brunswick,283095.0,8,1.2
+1993,Prince Edward Island,240737.0,9,1.0
+1993,Newfoundland and Labrador,62323.0,10,0.3
+1992,Ontario,6053177.0,1,25.5
+1992,Alberta,4956259.0,2,20.9
+1992,Saskatchewan,4390865.0,3,18.5
+1992,Quebec,3871869.0,4,16.3
+1992,Manitoba,2168764.0,5,9.1
+1992,British Columbia,1404077.0,6,5.9
+1992,Nova Scotia,321587.0,7,1.4
+1992,New Brunswick,270400.0,8,1.1
+1992,Prince Edward Island,228204.0,9,1.0
+1992,Newfoundland and Labrador,65000.0,10,0.3
+1991,Ontario,5559268.0,1,25.3
+1991,Alberta,4234918.0,2,19.3
+1991,Saskatchewan,4127480.0,3,18.8
+1991,Quebec,3850473.0,4,17.5
+1991,Manitoba,2004405.0,5,9.1
+1991,British Columbia,1341604.0,6,6.1
+1991,Nova Scotia,317832.0,7,1.4
+1991,New Brunswick,257059.0,8,1.2
+1991,Prince Edward Island,243754.0,9,1.1
+1991,Newfoundland and Labrador,62752.0,10,0.3
+1990,Ontario,5690618.0,1,25.9
+1990,Alberta,4283091.0,2,19.5
+1990,Saskatchewan,4030819.0,3,18.3
+1990,Quebec,3783772.0,4,17.2
+1990,Manitoba,1985442.0,5,9.0
+1990,British Columbia,1298776.0,6,5.9
+1990,Nova Scotia,331697.0,7,1.5
+1990,New Brunswick,280204.0,8,1.3
+1990,Prince Edward Island,253381.0,9,1.2
+1990,Newfoundland and Labrador,60139.0,10,0.3

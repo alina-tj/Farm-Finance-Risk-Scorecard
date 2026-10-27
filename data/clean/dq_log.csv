@@ -1,0 +1,8 @@
+check,rows,note,raw_rows,final_rows
+years before 1990,5493,excluded from the analysis period,8661,3168
+missing value,0,dropped these rows,8661,3168
+duplicate rows,0,kept the first one,8661,3168
+year out of range,0,dropped,8661,3168
+negative receipts or expenses,0,dropped,8661,3168
+receipts - expenses != net cash income,0,kept but flagged,8661,3168
+provinces dont match Canada total (>1%),0,probably rounding,8661,3168
