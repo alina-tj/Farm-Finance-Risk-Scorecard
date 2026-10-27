@@ -48,21 +48,22 @@ I chose the scorecard cutoffs myself, using a margin below 10% and a drop of mor
 This analysis shows where the numbers changed, but it does not explain what caused the changes.
 Folder layout
 
-clean_data.py          cleaning and data quality checks  
-load_to_db.py          builds farm_finance.db  
-run_queries.py         runs sql/queries.sql and saves results  
-check_swings.py        flags large year-over-year changes  
-check_2022.py          closer look at New Brunswick and PEI  
-export_for_tableau.py  creates the file used in Tableau  
-make_scorecard.py      province risk scorecard  
-tier_sensitivity.py    tests the scorecard cutoffs  
-sql/queries.sql        analysis queries  
-data/raw/              original StatCan download  
-data/clean/            cleaned data and data quality log  
-data/results/          query results and scorecard  
-dashboard/screenshots/ dashboard images  
-report/findings.md     short report
-How to run it
+clean_data.py         : cleaning and data quality checks  
+load_to_db.py         : builds farm_finance.db  
+run_queries.py        : runs sql/queries.sql and saves results  
+check_swings.py       :flags large year-over-year changes  
+check_2022.py         : closer look at New Brunswick and PEI  
+export_for_tableau.py : creates the file used in Tableau  
+make_scorecard.py     : province risk scorecard  
+tier_sensitivity.py   : tests the scorecard cutoffs  
+sql/queries.sql       : analysis queries  
+data/raw/             : original StatCan download  
+data/clean/           : cleaned data and data quality log  
+data/results/         : query results and scorecard  
+dashboard/screenshots/: dashboard images  
+report/findings.md   :  short report
+
+How to run it:
 You need Python 3 and pandas (pip install pandas). Run these from the project folder, in this order:
 
 
