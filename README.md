@@ -26,7 +26,8 @@ Made a risk scorecard (make_scorecard.py, tier_sensitivity.py): I labelled provi
 
 Built the dashboard in Tableau Public, using a data file created by export_for_tableau.py.
 
-#Data quality
+Data quality:
+
 The raw file had 8,661 rows. I removed 5,493 rows from before 1990, leaving 3,168 rows.
 I found no missing values, duplicates, negative receipts or expenses, or years outside the selected range.
 Every account had 396 rows, covering 11 places over 36 years.
