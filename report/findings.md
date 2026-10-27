@@ -42,8 +42,7 @@ What I would do next
 I would adjust the dollar amounts for inflation using the Consumer Price Index, compare margins from 2021 to 2025 to see whether the pattern holds, and rebuild the dashboard in Power BI.
 
 Dashboard:
-https://public.tableau.com/app/profile/alina.tejani7653/viz/Book1_17922173568890/Dashboard1-OVERVIE
-W?publish=yes
+https://public.tableau.com/app/profile/alina.tejani7653/viz/Book1_17922173568890/Dashboard1-OVERVIEW?publish=yes
 
 ![Overview](dashboard/screenshots/overview.png)
 ![Risk and data quality](dashboard/screenshots/risk.png)
